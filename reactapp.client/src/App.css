@@ -1,0 +1,82 @@
+﻿.button {
+    color: #000000 !important;
+    font-size: 17px;
+}
+
+.toggle {
+    width: 35px;
+    height: 18px;
+}
+
+.toggle .react-toggle-track {
+    background-color: #ccc !important;
+    height: 100%;
+    width:100%
+}
+
+.toggle .react-toggle-thumb {
+    background-color: #1890ff;
+    box-shadow: none !important;
+    border: none !important;
+    width: 17px;
+    height: 18px;
+    top: 0px;
+}
+
+.toggle.react-toggle--checked .react-toggle-thumb {
+    left: 18px;
+}
+
+
+.is-invalid .react-select__control,
+.is-invalid .country-dropdown,
+.is-invalid .region-dropdown {
+    border-color: #ff4d4f;
+}
+
+.logo{
+    width:75px;
+    height:75px;
+}
+
+.ikona1{
+    width:28px;
+    height:28px;
+}
+
+.ikona2 {
+    width: 100px;
+    height: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: unset;
+}
+
+.center-table {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.centered-icon {
+    margin: auto;
+    width: 25%;
+    display: flex;
+    align-items: center;
+}
+
+.centered-search {
+    margin: auto;
+    width: 50%;
+}
+
+.big-text {
+    font-size: xx-large;
+}
+
+.label-shift-left {
+    margin-right: 10px;
+}
